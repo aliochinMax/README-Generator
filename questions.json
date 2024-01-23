@@ -1,0 +1,51 @@
+[
+    {
+      "prompt": {
+        "type": "input",
+        "message": "Write a short description for your project",
+        "name": "description"
+      },
+      "checkString": "Description"
+    },
+    {
+      "prompt": {
+        "type": "input",
+        "message": "How do the users use your project, how do they set it up?",
+        "name": "howToUse"
+      },
+      "checkString": "How to use"
+    },
+    {
+      "prompt": {
+        "type": "input",
+        "message": "What's the process to contribute to your project?",
+        "name": "howToContribute"
+      },
+      "checkString": "How to contribute"
+    },
+    {
+        "prompt": {
+          "type": "input",
+          "message": "What would you like to add in the future, if you were to continue development?",
+          "name": "furtherDevelopment"
+        },
+        "checkString": "Further development"
+    },
+    {
+      "prompt": {
+        "type": "input",
+        "message": "Detail your development process",
+        "name": "developmentDiary"
+      },
+      "checkString": "Development diary"
+    },
+    {
+        "name":"screenshotsOfUse",
+        "checkString": "Screenshots of use"
+    },
+    {
+        "name":"screenshotsOfDevelopment",
+        "checkString":"Screenshots of development"
+    }
+  ]
+  
