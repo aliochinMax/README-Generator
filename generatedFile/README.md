@@ -1,25 +1,22 @@
-# The Bean thesarus
- Author: Bean 
+# beans repo
+ Author: bean 
 
 # ![License Badge](https://shields.io/badge/license-MIT-green)
 
 ## Table of Contents
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [How To Contribute](#how-to-contribute)
 - [Further Development](#further-development)
-- [Development Diary](#development-diary)
+- [Screenshots Of Use](#screenshots-of-use)
 - [Screenshots Of Development](#screenshots-of-development)
 
 ## Description
-It is a thesarus for beans
+A collection of beans
 ## How To Use
-They must know 
-## How To Contribute
-Connect with the bean hivemind
+They must know
 ## Further Development
-More words
-## Development Diary
-Magical
+Baked beans
+## Screenshots Of Use
+{ADD MANUALLY}
 ## Screenshots Of Development
 {ADD MANUALLY}
